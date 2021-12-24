@@ -6,7 +6,7 @@
 
 <body>
 
-### **Hi there! I'm**
+<span style="color:#fff; font-family: 'Roboto Bold'; font-size: 4em;">Hi there! I'm</span>
 
 <img src="devsolus banner.svg" alt="Hi, i'm Solus" style="height: 100%; width: 100%;"/>
 
