@@ -1,21 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="style.css" rel="stylesheet"></link>
+  </head>
+
+<body>
 
 ### **Hi there! I'm**
 
 <img src="devsolus banner.svg" alt="Hi, i'm Solus" style="height: 100%; width: 100%;"/>
 
 ![snake svg](https://github.com/devsolus/devsolus/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-**devsolus/devsolus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  </body>
+</html>
